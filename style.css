@@ -898,7 +898,8 @@ footer {
     .education-container,
     .skills-container,
     .projects-container,
-    .contact-container {
+    .contact-container,
+    .certification-container {
         grid-template-columns: 1fr;
     }
 
